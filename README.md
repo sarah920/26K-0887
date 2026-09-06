@@ -8,3 +8,7 @@ Profile picture ![Profile Picture](
 ##Projects
 Games on python
 calculator on scratch
+
+##hobies:
+-[]Reading
+-[]watching series
